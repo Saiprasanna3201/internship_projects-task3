@@ -12,4 +12,4 @@ Features
 - Simple and intuitive controls
 - Scorekeeping and high score tracking
 - Customizable game speed and difficulty
-- Pygame library for smooth and efficient graphics rendering
+- Pygame library for smooth and efficient graphics rendering..
